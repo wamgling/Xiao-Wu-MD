@@ -15,6 +15,6 @@ AUTO_REPLY: process.env.AUTO_REPLY || "true",
 AUTO_REACT: process.env.AUTO_REACT || "true",
 FAKE_RECORDING: process.env.FAKE_RECORDING || "true",   
 ANTI_LINK: process.env.ANTI_LINK || "true",
-ANTI_BAD: process.env.ANTI_BAD || "false",   
+ANTI_BAD: process.env.ANTI_BAD || "true",   
 READ_MESSAGE: process.env.READ_MESSAGE || "true",
 };
